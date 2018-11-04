@@ -124,7 +124,3 @@ class Scraper:
         #self.display.start()
         self.start_scraper()
         self.sign_in(username, password)
-
-if __name__ == "__main__":
-    main()
-{
